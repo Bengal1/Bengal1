@@ -5,6 +5,7 @@
 
 ## 🔹 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bengal1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bengal1&layout=compact)
 
 ---
 
