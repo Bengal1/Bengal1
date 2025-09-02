@@ -17,6 +17,7 @@
 ## 🖥️ Pinned Projects
 - [**Simple CNN Guide**](https://github.com/Bengal1/Simple-CNN-Guide) – A beginner’s guide to building Convolutional Neural Networks (CNNs).
 - [**Simple Transformer**](https://github.com/Bengal1/Simple-Transformer) – An introductory guide and practical showcase of the Transformer model.
+- [**Simple CNN OOP**](https://github.com/Bengal1/Simple-CNN-OOP) - A from-scratch Convolutional Neural Network in C++ OOP.
 
 ---
 
