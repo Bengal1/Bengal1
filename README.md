@@ -4,6 +4,15 @@
 ---
 
 ## 🔹 Stats
+<div style="display: flex; justify-content: space-between;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Bengal1&show_icons=true&theme=default" height="160"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bengal1&layout=compact" height="160"/>
+
+</div>
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bengal1&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bengal1&layout=compact)
 
