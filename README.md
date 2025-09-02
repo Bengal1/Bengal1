@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there, I'm Your Name 👋
+# Hi there, I'm Bengal 👋
 **Deep Learning | C++ | PyTorch | Transformers | CNNs**
 
 ---
@@ -11,9 +9,8 @@
 ---
 
 ## 🔹 Pinned Projects
-- [SimpleTransformer](https://github.com/YOUR_USERNAME/SimpleTransformer) – PyTorch implementation of a Transformer model.
-- [SimpleCNN](https://github.com/YOUR_USERNAME/SimpleCNN) – Custom C++ CNN framework.
-- [MNISTLoader](https://github.com/YOUR_USERNAME/MNISTLoader) – C++ MNIST data loader and preprocessing.
+- [Simple Transformer](https://github.com/Bengal1/Simple-Transformer) – An introductory guide and practical showcase of the Transformer model.
+- [Simple CNN Guide](https://github.com/Bengal1/Simple-CNN-Guide) – A beginner’s guide to building Convolutional Neural Networks (CNNs).
 
 ---
 
