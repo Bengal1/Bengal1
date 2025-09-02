@@ -1,5 +1,5 @@
 ### Hi there, I'm Bengal 👋
-I am an Electrical Engineer and I love exploring AI architectures and building frameworks.
+I am an Software Engineer and I love exploring AI architectures and building frameworks.
 
 **Deep Learning | C++ | PyTorch | Transformers | CNNs**
 
