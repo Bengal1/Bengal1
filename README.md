@@ -25,16 +25,12 @@
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
 **Frameworks & Libraries:**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
 
 ---
