@@ -1,4 +1,6 @@
-# Hi there, I'm Bengal 👋
+### Hi there, I'm Bengal 👋
+I am an Electrical Engineer and I love exploring AI architectures and building frameworks.
+
 **Deep Learning | C++ | PyTorch | Transformers | CNNs**
 
 ---
@@ -40,8 +42,3 @@
 - Programming: C++, Python, PyTorch, Eigen
 - Deep Learning: CNN, Transformer, Attention, NLP, Image Classification
 - Tools: Git, Colab, MinGW
-
----
-
-## 🔹 Fun Fact
-I love exploring AI architectures and building frameworks from scratch 🚀
