@@ -1,44 +1,74 @@
-### Hi there, I'm Bengal 👋
-I am an Software Engineer and I love exploring AI architectures and building frameworks.
+# Hi, I'm Or Ben-Gal 👋
 
-**Deep Learning | C++ | PyTorch | Transformers | CNNs**
+Electrical Engineering graduate with a strong technical foundation in **software engineering, machine learning, computer vision, and embedded systems**.
 
----
-
-## 📈 Stats
-<div style="display: flex; justify-content: space-between;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Bengal1&show_icons=true&theme=default" height="160"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bengal1&layout=compact" height="160"/>
-
-</div>
+I enjoy building projects that combine **software, algorithms, and real-world systems** — from implementing neural networks from scratch to developing C++ vision pipelines for embedded and robotics applications.
 
 ---
 
-## 🖥️ Pinned Projects
-- [**Simple CNN Guide**](https://github.com/Bengal1/Simple-CNN-Guide) – A beginner’s guide to building Convolutional Neural Networks (CNNs).
-- [**Simple Transformer**](https://github.com/Bengal1/Simple-Transformer) – An introductory guide and practical showcase of the Transformer model.
-- [**Simple CNN OOP**](https://github.com/Bengal1/Simple-CNN-OOP) - A from-scratch Convolutional Neural Network in C++ OOP.
+## 🔧 Technical Focus
+
+- **Programming:** C++, Python, C, Assembly
+- **Machine Learning:** PyTorch, CNNs, Transformers, Vision Transformers
+- **Computer Vision:** OpenCV, image classification, real-time vision pipelines
+- **Systems:** Linux, Git, TCP/IP, CMake
+- **Embedded & Robotics:** Raspberry Pi, ROS, edge AI
+- **Hardware:** Verilog, digital design, signal processing
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
+### [CNN From Scratch in C++](https://github.com/Bengal1/CNN-From-Scratch-CPP)
+A complete CNN implementation built in modern C++ using object-oriented design.
 
-**Frameworks & Libraries:**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+Implemented convolution, pooling, fully connected layers, activation functions, backpropagation, optimization, dropout, and batch normalization.
 
-**Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+**C++ · Deep Learning · OOP**
 
 ---
 
-## 🛠️ Skills
-- Programming: C++, Python, PyTorch, Eigen
-- Deep Learning: CNN, Transformer, Attention, NLP, Image Classification
-- Tools: Git, Colab, MinGW
+### [ViT vs CNN Comparative Study](https://github.com/Bengal1/ViT-vs-CNN-Comparative-Study)
+A practical comparison between a Convolutional Neural Network and a Vision Transformer for image classification.
+
+Explores architecture design, training behavior, regularization, optimization, and model performance.
+
+**Python · PyTorch · Computer Vision · Transformers**
+
+---
+
+### [Transformer From Scratch – NLP](https://github.com/Bengal1/Transformer-From-Scratch-NLP)
+Implementation of the Transformer architecture with attention, positional encoding, encoder-decoder blocks, and training pipeline.
+
+**Python · PyTorch · NLP**
+
+---
+
+## 🧠 What I'm Currently Working On
+
+I'm currently expanding toward **real-time computer vision, embedded AI, and robotics**.
+
+My current development path is:
+
+**Camera → Vision Pipeline → Object Detection → Edge Inference → Robotics / Action Planning**
+
+with a focus on deploying efficient systems on devices such as the **Raspberry Pi**.
+
+---
+
+## 📌 Other Projects
+
+- **CNN Architecture Guide** — practical CNN implementation and architecture exploration in PyTorch
+- **TCP Noisy Channel** — communication-system simulation using C and TCP/IP
+- **MIPS 32-bit Microprocessor** — processor implementation in Verilog
+- **AI for Robot** — robotics and SLAM experimentation using ROS and Linux
+
+---
+
+## 📫 Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/Bengal1)
+
+---
+
+> I like building systems from the inside out — understanding how they work, implementing the core ideas, and then applying them to practical problems.
