@@ -67,7 +67,7 @@ with a focus on deploying efficient systems on devices such as the **Raspberry P
 
 ## 📫 Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/Bengal1)
+[LinkedIn](https://www.linkedin.com/in/or-ben-gal/) · [GitHub](https://github.com/Bengal1)
 
 ---
 
