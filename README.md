@@ -17,7 +17,6 @@ Built a CNN in C++17 with explicit forward and backward passes, modular classes,
 ### [CNN vs Vision Transformer](https://github.com/Bengal1/ViT-vs-CNN-Comparative-Study)
 Trained both architectures from scratch across four image-classification datasets, exploring how their performance changes with task complexity.
 
-**Food-101 test accuracy: CNN 27.96% · ViT 67.34%**  
 Python · PyTorch · Computer Vision
 
 ### [Transformer From Scratch — NLP](https://github.com/Bengal1/Transformer-From-Scratch-NLP)
