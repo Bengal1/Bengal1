@@ -1,74 +1,52 @@
-# Hi, I'm Or Ben-Gal 👋
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/27a7c37d-19a4-45cd-8ca9-68cbc8979b69" />
 
-Electrical Engineering graduate with a strong technical foundation in **software engineering, machine learning, computer vision, and embedded systems**.
+# Or Ben-Gal
+**Electrical Engineering Graduate · C++ · Machine Learning · Digital Design**
 
-I enjoy building projects that combine **software, algorithms, and real-world systems** — from implementing neural networks from scratch to developing C++ vision pipelines for embedded and robotics applications.
+I build projects to understand how systems work—from implementing neural networks in C++ to designing a processor in Verilog.
 
----
+My work spans software, machine learning, and hardware, with a growing focus on real-time computer vision and embedded systems.
 
-## 🔧 Technical Focus
-
-- **Programming:** C++, Python, C, Assembly
-- **Machine Learning:** PyTorch, CNNs, Transformers, Vision Transformers
-- **Computer Vision:** OpenCV, image classification, real-time vision pipelines
-- **Systems:** Linux, Git, TCP/IP, CMake
-- **Embedded & Robotics:** Raspberry Pi, ROS, edge AI
-- **Hardware:** Verilog, digital design, signal processing
-
----
-
-## 🚀 Featured Projects
+## Selected Projects
 
 ### [CNN From Scratch in C++](https://github.com/Bengal1/CNN-From-Scratch-CPP)
-A complete CNN implementation built in modern C++ using object-oriented design.
+Built a CNN in C++17 with explicit forward and backward passes, modular classes, batch normalization, and dropout.
 
-Implemented convolution, pooling, fully connected layers, activation functions, backpropagation, optimization, dropout, and batch normalization.
+**98.55% MNIST test accuracy** · C++17 · Eigen · CMake
 
-**C++ · Deep Learning · OOP**
+### [CNN vs Vision Transformer](https://github.com/Bengal1/ViT-vs-CNN-Comparative-Study)
+Trained both architectures from scratch across four image-classification datasets, exploring how their performance changes with task complexity.
 
----
+**Food-101 test accuracy: CNN 27.96% · ViT 67.34%**  
+Python · PyTorch · Computer Vision
 
-### [ViT vs CNN Comparative Study](https://github.com/Bengal1/ViT-vs-CNN-Comparative-Study)
-A practical comparison between a Convolutional Neural Network and a Vision Transformer for image classification.
+### [Transformer From Scratch — NLP](https://github.com/Bengal1/Transformer-From-Scratch-NLP)
+Implemented attention, positional encoding, and encoder–decoder blocks to explore the inner workings of the Transformer architecture.
 
-Explores architecture design, training behavior, regularization, optimization, and model performance.
+Python · PyTorch · NLP
 
-**Python · PyTorch · Computer Vision · Transformers**
+## Current Work
 
----
+Developing a modular C++ vision system, starting with camera capture and object detection, with eventual deployment on Raspberry Pi.
 
-### [Transformer From Scratch – NLP](https://github.com/Bengal1/Transformer-From-Scratch-NLP)
-Implementation of the Transformer architecture with attention, positional encoding, encoder-decoder blocks, and training pipeline.
+**VisionCapturePipeline:** frame capture, processing, display, and recording.  
+**ObjectDetector:** image preprocessing, model inference, and detection postprocessing.
 
-**Python · PyTorch · NLP**
+## Technical Skills
 
----
+| Area | Technologies |
+|---|---|
+| Programming | C++, Python, C, Assembly |
+| Machine Learning & Vision | PyTorch, OpenCV, CNNs, Transformers |
+| Systems & Tools | Linux, Git, CMake, TCP/IP |
+| Hardware | Verilog, digital design, signal processing |
+| Embedded & Robotics | Raspberry Pi, ROS |
 
-## 🧠 What I'm Currently Working On
+## Additional Projects
 
-I'm currently expanding toward **real-time computer vision, embedded AI, and robotics**.
-
-My current development path is:
-
-**Camera → Vision Pipeline → Object Detection → Edge Inference → Robotics / Action Planning**
-
-with a focus on deploying efficient systems on devices such as the **Raspberry Pi**.
-
----
-
-## 📌 Other Projects
-
-- **CNN Architecture Guide** — practical CNN implementation and architecture exploration in PyTorch
-- **TCP Noisy Channel** — communication-system simulation using C and TCP/IP
-- **MIPS 32-bit Microprocessor** — processor implementation in Verilog
-- **AI for Robot** — robotics and SLAM experimentation using ROS and Linux
-
----
-
-## 📫 Connect
+- **MIPS 32-bit Microprocessor** — processor implementation in Verilog.
+- **TCP Noisy Channel** — communication-system simulation using C and TCP/IP.
+- **CNN Architecture Guide** — CNN implementation and architecture exploration in PyTorch.
+- **AI for Robot** — robotics and SLAM experimentation using ROS and Linux.
 
 [LinkedIn](https://www.linkedin.com/in/or-ben-gal/) · [GitHub](https://github.com/Bengal1)
-
----
-
-> I like building systems from the inside out — understanding how they work, implementing the core ideas, and then applying them to practical problems.
